@@ -42,6 +42,6 @@
     "dotenv": "^10.0.0",
     "invitelist": "^0.0.2",
     "keccak256": "^1.0.3",
-    "merkletreejs": "^0.2.24"
+    "merkletreejs": "^0.2.31"
   }
 }
